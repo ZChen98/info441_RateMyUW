@@ -4,11 +4,11 @@ Created by: Justin Chen, Lee Shi, Jerry Wang and Doris Yang
 
 ## Project Description
 
-Our target audience is UW students. Everyone in the UW community can benefit from additional resources about UW life. Additional audiences include staff and faculty members and they are also encouraged to use this application to share their opinions about everything on campus.
+Our target audience is UW students. They will be the main users and direct stakeholders of our project. They can share their opinions about buildings and dormitories on campus since they walk in them on a daily basis. Other groups in the UW community such as UW staff and faculty who work there, or prospective students can also use and benefit from our project.
 
-Our audience uses our application to view and rate anything related to life at UW. At this moment, we only have applications like [Rate My Professor](https://www.ratemyprofessors.com) and class rating system. However, college is not only about learning, we also need places to stay as well as attend different social activities. Therefore, a comprehensive platform that can indicate good and bad about places around campus would be desired by us to rate more places like dorms/buildings/restaurants/apartments.
+Our audience uses our application to view and rate anything related to life at UW. Current popular applications with similar functions, such as [Rate My Professor](https://www.ratemyprofessors.com) and [Yelp](https://www.yelp.com/), all have different focus and scopes compared to our project. Besides, none of those focuses specifically on students or the UW community. College is not only about learning, we also need places to stay as well as attend different social activities. Therefore, a comprehensive platform that can indicate good and bad about places around campus would be desired by us to rate more places like dorms/buildings/restaurants/apartments.
 
-As developers, we are a part of the UW community, and we wish to improve the college experience for ourselves and our peers. Looking for a dorm or other buildings' information can be stressful. The official introduction on the school's website does not tell students' personal experience. In addition, we envision many interactive features for the application that can utilize what we learned in the class and improve our programming skills.
+As developers, we are part of the UW community, and we have the demand for a platform to exchange information and opinions about our on campus experiences. We also wish to improve the college experience for ourselves and our peers because we believe many of them resonate with our idea. In addition, we envision many interactive features for the application that can utilize what we learned in the class this quarter. We hope that through building this web application, we can improve our programming skills and have a decent piece of work for our portfolio.
 
 ## Technical Description
 
